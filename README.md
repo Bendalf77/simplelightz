@@ -8,5 +8,7 @@
 LibreOffice брать там https://ru.libreoffice.org/
 
 Документы без соотвествующего файла электронной подписи *.sig не действительны.
+Для проверки подписей под windows https://www.gpg4win.org/get-gpg4win.html
+Для проверки подписей под Linux нужны пакеты , связанные c gpg как ядро + графический интерфейс Kleopatra. 
 
 
